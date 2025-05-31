@@ -30,7 +30,7 @@ Run `npm test` to execute the test suite.
 - LocalStorage API
 - Jest & React Testing Library
 
-- ##Testing Guidelines
+ ##Testing Guidelines
 - Manual Testing Checklist
 Basic Functionality:
 
